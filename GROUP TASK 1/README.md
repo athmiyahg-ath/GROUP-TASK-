@@ -4,7 +4,7 @@
 **Athmiya H G** – B.Tech Student
 
 ## Subject
-Artificial Intelligence
+ Fundamentals of AI&ML
 
 ## Brief Overview
 This report provides a comprehensive study of Artificial Intelligence (AI), including its concepts, methodologies, and applications. The document covers theoretical foundations, practical examples, and key techniques used in AI, aimed at developing a strong understanding of the subject.
