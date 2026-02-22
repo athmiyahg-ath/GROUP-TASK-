@@ -1,2 +1,8 @@
-# GROUP-TASK-
-This repository contains our Group Task reports covering Machine Learning and Big Data process flows. It details ML workflows—from data collection, feature extraction, algorithm selection, training, testing, to evaluation—and Big Data mapping with sources, storage, processing, and output generation, all in a structured and iterative manner.
+# Group Task Reports
+
+This folder contains our Group Task reports for various projects.  
+- **Group Task 1:** Simple Machine Learning Process Flow  
+- **Group Task 2:** Big Data System
+- **Group Task 3:** Machine learning Game 
+
+Each report explains the workflow, methodology, and key insights in a structured manner for easy understanding.
